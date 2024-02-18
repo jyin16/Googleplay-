@@ -1,4 +1,6 @@
-# Googleplay- EDA
+# Googleplay- EDA 
+![GooglePlay Img](https://github.com/jyin16/Googleplay-/assets/160368135/31af758d-6184-4877-9370-f79460670f85)
+
 Tableau integration projects for Data Analytics, Business Intelligence and Data visualization.
 
 ### Live Demo:

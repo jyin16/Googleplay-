@@ -4,6 +4,8 @@
 Tableau integration projects for Data Analytics, Business Intelligence and Data visualization.
 
 ### Live Demo:
+View interactive dashboard: https://public.tableau.com/shared/DSQRM94P8?:display_count=n&:origin=viz_share_link
+
 ![EDA Screenshot](https://github.com/jyin16/Googleplay-/assets/160368135/01390642-6b4d-4ed1-8240-74ba23d667b9)
 
 ### Projects:
